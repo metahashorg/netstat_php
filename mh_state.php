@@ -757,7 +757,7 @@
     // Map.setLeftToRightAnimation(); 
 
 
-    let map = new MapGenerator('.st-map', 2); // число это колличество точек при которых формируется бублик
+    let map = new MapGenerator('.st-map', 5); // число это колличество точек при которых формируется бублик
     map.createDots(dots);
 
 </script>
